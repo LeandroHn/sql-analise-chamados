@@ -48,4 +48,4 @@ SQLite (via DB Browser for SQLite)
 - `chamados.db` — banco de dados populado
 - `queries.sql` — as 15 consultas comentadas
 
-**Autor:** [seu nome aqui]
+**Autor:** [Leandro]
