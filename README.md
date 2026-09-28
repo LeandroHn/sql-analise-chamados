@@ -45,7 +45,9 @@ SQLite (via DB Browser for SQLite)
 
 ## Arquivos neste repositório
 
-- `chamados.db` — banco de dados populado
-- `queries.sql` — as 15 consultas comentadas
+## Arquivos
+
+- 📄 [queries.sql](queries.sql): as 15 consultas comentadas
+- 🗃️ [chamados.db](chamados.db): banco SQLite com os dados
 
 **Autor:** [Leandro]
