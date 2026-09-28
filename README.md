@@ -1,6 +1,6 @@
 # Análise de Chamados de Suporte — SQL
 
-**Projeto | Área: QA / Help Desk / RPA**
+**Projeto |**
 
 ## Sobre o projeto
 
